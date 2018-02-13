@@ -1,0 +1,105 @@
+Date: 2018-01-16 16:16:42
+	Ping: 4.88ms
+	Download: 43.4mb/s
+	Upload: 35.99mb/s
+
+Date: 2018-01-17 13:01:26
+	Ping: 3.91ms
+	Download: 42.18mb/s
+	Upload: 40.16mb/s
+
+Date: 2018-01-18 21:32:00
+	Ping: 5.27ms
+	Download: 43.89mb/s
+	Upload: 40.73mb/s
+
+Date: 2018-01-18 23:54:49
+	Ping: 6.13ms
+	Download: 40.75mb/s
+	Upload: 39.98mb/s
+
+Date: 2018-01-19 22:35:22
+	Ping: 6.27ms
+	Download: 27.56mb/s
+	Upload: 21.56mb/s
+
+Date: 2018-01-20 14:05:19
+	Ping: 6.01ms
+	Download: 39.41mb/s
+	Upload: 30.24mb/s
+
+Date: 2018-01-21 13:12:29
+	Ping: 7.81ms
+	Download: 45.43mb/s
+	Upload: 42.84mb/s
+
+Date: 2018-01-22 14:17:45
+	Ping: 5.26ms
+	Download: 44.88mb/s
+	Upload: 34.33mb/s
+
+Date: 2018-01-23 01:04:21
+	Ping: 4.29ms
+	Download: 44.14mb/s
+	Upload: 40.29mb/s
+
+Date: 2018-01-23 22:54:55
+	Ping: 8.51ms
+	Download: 44.91mb/s
+	Upload: 38.19mb/s
+
+Date: 2018-01-24 14:55:29
+	Ping: 4.26ms
+	Download: 45.55mb/s
+	Upload: 41.49mb/s
+
+Date: 2018-01-26 23:15:18
+	Ping: 5.38ms
+	Download: 41.46mb/s
+	Upload: 37.91mb/s
+
+Date: 2018-01-29 15:43:19
+	Ping: 3.91ms
+	Download: 42.75mb/s
+	Upload: 32.13mb/s
+
+Date: 2018-01-31 16:51:09
+	Ping: 3.94ms
+	Download: 41.36mb/s
+	Upload: 39.65mb/s
+
+Date: 2018-02-01 22:36:36
+	Ping: 6.49ms
+	Download: 28.59mb/s
+	Upload: 29.33mb/s
+
+Date: 2018-02-03 18:48:11
+	Ping: 5.01ms
+	Download: 32.71mb/s
+	Upload: 39.95mb/s
+
+Date: 2018-02-05 12:58:24
+	Ping: 3.9ms
+	Download: 44.16mb/s
+	Upload: 35.7mb/s
+
+Date: 2018-02-07 14:17:51
+	Ping: 4.77ms
+	Download: 12.57mb/s
+	Upload: 18.24mb/s
+
+Date: 2018-02-11 16:59:07
+	Ping: 5.42ms
+	Download: 11.53mb/s
+	Upload: 19.85mb/s
+
+Date: 2018-02-12 15:39:58
+	Ping: 3.91ms
+	Download: 37.64mb/s
+	Upload: 33.83mb/s
+
+Date: 2018-02-13 12:32:11
+	Ping: 0.0ms
+	Download: 37.64mb/s
+	Upload: 37.8mb/s
+
