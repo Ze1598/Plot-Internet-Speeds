@@ -303,3 +303,118 @@ Date: 2018-03-28 12:47:10
 	Download: 41.47mb/s
 	Upload: 37.8mb/s
 
+Date: 2018-03-29 12:45:48
+	Ping: 7.81ms
+	Download: 22.25mb/s
+	Upload: 22.16mb/s
+
+Date: 2018-03-30 10:38:00
+	Ping: 10.52ms
+	Download: 37.58mb/s
+	Upload: 31.93mb/s
+
+Date: 2018-03-31 10:47:54
+	Ping: 8.26ms
+	Download: 40.55mb/s
+	Upload: 36.86mb/s
+
+Date: 2018-04-01 10:52:44
+	Ping: 10.52ms
+	Download: 38.98mb/s
+	Upload: 36.86mb/s
+
+Date: 2018-04-02 13:22:22
+	Ping: 7.81ms
+	Download: 40.42mb/s
+	Upload: 38.01mb/s
+
+Date: 2018-04-03 10:49:42
+	Ping: 7.81ms
+	Download: 42.38mb/s
+	Upload: 27.94mb/s
+
+Date: 2018-04-04 21:02:09
+	Ping: 5.26ms
+	Download: 35.87mb/s
+	Upload: 16.21mb/s
+
+Date: 2018-04-05 18:32:12
+	Ping: 5.13ms
+	Download: 43.04mb/s
+	Upload: 30.2mb/s
+
+Date: 2018-04-06 11:42:38
+	Ping: 3.91ms
+	Download: 41.76mb/s
+	Upload: 40.16mb/s
+
+Date: 2018-04-07 12:09:23
+	Ping: 5.51ms
+	Download: 44.32mb/s
+	Upload: 41.98mb/s
+
+Date: 2018-04-08 12:30:26
+	Ping: 4.76ms
+	Download: 38.36mb/s
+	Upload: 19.24mb/s
+
+Date: 2018-04-09 20:56:30
+	Ping: 4.13ms
+	Download: 45.29mb/s
+	Upload: 39.75mb/s
+
+Date: 2018-04-10 17:51:50
+	Ping: 4.01ms
+	Download: 42.98mb/s
+	Upload: 31.04mb/s
+
+Date: 2018-04-11 14:53:05
+	Ping: 3.92ms
+	Download: 44.16mb/s
+	Upload: 42.83mb/s
+
+Date: 2018-04-12 17:59:55
+	Ping: 8.64ms
+	Download: 35.64mb/s
+	Upload: 27.62mb/s
+
+Date: 2018-04-13 11:22:11
+	Ping: 4.16ms
+	Download: 44.21mb/s
+	Upload: 35.52mb/s
+
+Date: 2018-04-14 00:13:38
+	Ping: 5.76ms
+	Download: 42.79mb/s
+	Upload: 40.8mb/s
+
+Date: 2018-04-15 10:48:10
+	Ping: 4.76ms
+	Download: 36.7mb/s
+	Upload: 36.07mb/s
+
+Date: 2018-04-16 18:51:01
+	Ping: 4.69ms
+	Download: 22.92mb/s
+	Upload: 28.88mb/s
+
+Date: 2018-04-17 19:25:18
+	Ping: 5.01ms
+	Download: 42.66mb/s
+	Upload: 38.94mb/s
+
+Date: 2018-04-18 14:09:56
+	Ping: 3.89ms
+	Download: 45.64mb/s
+	Upload: 40.31mb/s
+
+Date: 2018-04-19 18:39:37
+	Ping: 5.01ms
+	Download: 38.67mb/s
+	Upload: 32.32mb/s
+
+Date: 2018-04-20 19:05:48
+	Ping: 3.91ms
+	Download: 44.53mb/s
+	Upload: 40.16mb/s
+
