@@ -863,3 +863,273 @@ Date: 2019-01-03 17:27:54
 	Download: 44.99mb/s
 	Upload: 32.61mb/s
 
+Date: 2019-01-04 17:41:20
+	Ping: 1.45ms
+	Download: 45.69mb/s
+	Upload: 22.94mb/s
+
+Date: 2019-01-05 16:28:12
+	Ping: 1.68ms
+	Download: 20.24mb/s
+	Upload: 19.65mb/s
+
+Date: 2019-01-06 19:01:08
+	Ping: 1.49ms
+	Download: 47.61mb/s
+	Upload: 42.63mb/s
+
+Date: 2019-01-07 15:54:44
+	Ping: 1.34ms
+	Download: 36.46mb/s
+	Upload: 8.47mb/s
+
+Date: 2019-01-08 17:29:56
+	Ping: 1.3ms
+	Download: 45.35mb/s
+	Upload: 44.11mb/s
+
+Date: 2019-01-09 12:49:28
+	Ping: 1.2ms
+	Download: 47.03mb/s
+	Upload: 47.28mb/s
+
+Date: 2019-01-10 12:12:18
+	Ping: 1.3ms
+	Download: 47.66mb/s
+	Upload: 46.41mb/s
+
+Date: 2019-01-11 19:56:48
+	Ping: 1.49ms
+	Download: 44.44mb/s
+	Upload: 43.34mb/s
+
+Date: 2019-01-12 15:23:51
+	Ping: 1.45ms
+	Download: 46.28mb/s
+	Upload: 44.95mb/s
+
+Date: 2019-01-13 15:20:08
+	Ping: 1.63ms
+	Download: 41.3mb/s
+	Upload: 29.6mb/s
+
+Date: 2019-01-14 13:03:02
+	Ping: 1.3ms
+	Download: 41.42mb/s
+	Upload: 31.16mb/s
+
+Date: 2019-01-15 11:52:48
+	Ping: 1.43ms
+	Download: 46.63mb/s
+	Upload: 34.14mb/s
+
+Date: 2019-01-16 15:55:37
+	Ping: 1.67ms
+	Download: 44.29mb/s
+	Upload: 44.7mb/s
+
+Date: 2019-01-17 14:32:38
+	Ping: 1.55ms
+	Download: 18.8mb/s
+	Upload: 28.09mb/s
+
+Date: 2019-01-18 12:44:53
+	Ping: 1.39ms
+	Download: 31.86mb/s
+	Upload: 18.78mb/s
+
+Date: 2019-01-19 08:39:35
+	Ping: 1.77ms
+	Download: 37.22mb/s
+	Upload: 18.86mb/s
+
+Date: 2019-01-20 16:48:40
+	Ping: 1.5ms
+	Download: 45.6mb/s
+	Upload: 18.95mb/s
+
+Date: 2019-01-21 01:18:42
+	Ping: 1.48ms
+	Download: 45.62mb/s
+	Upload: 46.25mb/s
+
+Date: 2019-01-22 14:46:58
+	Ping: 1.33ms
+	Download: 21.75mb/s
+	Upload: 12.85mb/s
+
+Date: 2019-01-23 05:07:44
+	Ping: 1.34ms
+	Download: 22.66mb/s
+	Upload: 9.84mb/s
+
+Date: 2019-01-24 10:15:09
+	Ping: 9.75ms
+	Download: 13.42mb/s
+	Upload: 10.45mb/s
+
+Date: 2019-01-25 06:20:47
+	Ping: 3.75ms
+	Download: 13.65mb/s
+	Upload: 12.46mb/s
+
+Date: 2019-01-26 11:46:27
+	Ping: 6.26ms
+	Download: 11.91mb/s
+	Upload: 6.49mb/s
+
+Date: 2019-01-27 13:07:45
+	Ping: 1.73ms
+	Download: 43.95mb/s
+	Upload: 26.0mb/s
+
+Date: 2019-01-28 14:03:40
+	Ping: 1.51ms
+	Download: 45.7mb/s
+	Upload: 43.93mb/s
+
+Date: 2019-01-29 00:54:45
+	Ping: 1.52ms
+	Download: 41.66mb/s
+	Upload: 21.89mb/s
+
+Date: 2019-01-30 13:12:56
+	Ping: 1.52ms
+	Download: 14.76mb/s
+	Upload: 8.07mb/s
+
+Date: 2019-01-31 14:24:55
+	Ping: 1.59ms
+	Download: 16.12mb/s
+	Upload: 9.62mb/s
+
+Date: 2019-02-01 14:44:18
+	Ping: 1.21ms
+	Download: 33.5mb/s
+	Upload: 42.62mb/s
+
+Date: 2019-02-02 01:23:55
+	Ping: 1.68ms
+	Download: 45.07mb/s
+	Upload: 43.72mb/s
+
+Date: 2019-02-03 13:32:46
+	Ping: 1.55ms
+	Download: 46.76mb/s
+	Upload: 37.01mb/s
+
+Date: 2019-02-04 12:16:22
+	Ping: 1.53ms
+	Download: 46.83mb/s
+	Upload: 46.0mb/s
+
+Date: 2019-02-05 00:14:45
+	Ping: 1.24ms
+	Download: 46.86mb/s
+	Upload: 32.22mb/s
+
+Date: 2019-02-06 18:58:47
+	Ping: 1.6ms
+	Download: 45.4mb/s
+	Upload: 22.6mb/s
+
+Date: 2019-02-07 18:00:11
+	Ping: 1.58ms
+	Download: 44.55mb/s
+	Upload: 22.74mb/s
+
+Date: 2019-02-08 00:23:37
+	Ping: 1.68ms
+	Download: 43.14mb/s
+	Upload: 18.87mb/s
+
+Date: 2019-02-09 13:17:22
+	Ping: 1.43ms
+	Download: 44.85mb/s
+	Upload: 18.02mb/s
+
+Date: 2019-02-10 15:33:43
+	Ping: 1.45ms
+	Download: 46.72mb/s
+	Upload: 29.14mb/s
+
+Date: 2019-02-11 10:35:25
+	Ping: 1.46ms
+	Download: 45.43mb/s
+	Upload: 33.0mb/s
+
+Date: 2019-02-12 11:44:54
+	Ping: 1.29ms
+	Download: 44.05mb/s
+	Upload: 21.36mb/s
+
+Date: 2019-02-13 19:56:45
+	Ping: 1.37ms
+	Download: 45.8mb/s
+	Upload: 37.4mb/s
+
+Date: 2019-02-14 20:18:12
+	Ping: 1.43ms
+	Download: 42.99mb/s
+	Upload: 30.03mb/s
+
+Date: 2019-02-15 18:57:27
+	Ping: 1.82ms
+	Download: 12.23mb/s
+	Upload: 9.73mb/s
+
+Date: 2019-02-16 13:18:11
+	Ping: 1.63ms
+	Download: 46.57mb/s
+	Upload: 42.46mb/s
+
+Date: 2019-02-17 13:09:52
+	Ping: 1.61ms
+	Download: 45.28mb/s
+	Upload: 27.62mb/s
+
+Date: 2019-02-18 15:15:30
+	Ping: 1.53ms
+	Download: 43.68mb/s
+	Upload: 43.77mb/s
+
+Date: 2019-02-19 11:48:09
+	Ping: 1.42ms
+	Download: 45.32mb/s
+	Upload: 43.79mb/s
+
+Date: 2019-02-20 19:05:43
+	Ping: 1.6ms
+	Download: 44.17mb/s
+	Upload: 46.7mb/s
+
+Date: 2019-02-21 19:27:04
+	Ping: 1.73ms
+	Download: 10.81mb/s
+	Upload: 20.09mb/s
+
+Date: 2019-02-22 18:53:58
+	Ping: 1.78ms
+	Download: 19.84mb/s
+	Upload: 19.71mb/s
+
+Date: 2019-02-23 13:40:12
+	Ping: 1.32ms
+	Download: 46.48mb/s
+	Upload: 42.31mb/s
+
+Date: 2019-02-24 01:41:20
+	Ping: 1.56ms
+	Download: 43.41mb/s
+	Upload: 37.66mb/s
+
+Date: 2019-02-25 09:32:17
+	Ping: 1.21ms
+	Download: 46.62mb/s
+	Upload: 44.38mb/s
+
+Date: 2019-02-26 11:06:15
+	Ping: 1.43ms
+	Download: 43.74mb/s
+	Upload: 40.73mb/s
+
