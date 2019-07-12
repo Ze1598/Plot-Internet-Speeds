@@ -18,6 +18,7 @@ Note: I stopped collecting data in March 31st 2019.
 * (jan. 3rd 2019) Reuploaded all files in the repo to clean up and organize folders. These are the latest files which I am currently using to scrape my internet speeds once per day at home
 * (feb. 26th 2019) Updated the repo with the most recent dataset
 * (june 16th 2019) Updated with the latest dataset
+* (july 12th 2019) Added a new CSV called "internet_speeds_days" that contains three extra columns, one to represent each date component for each row (i.e., added a "Year", "Month" and "Day" columns)
 
 ### External references:
 * pyspeedtest: https://github.com/fopina/pyspeedtest (Not using this module anymore)
